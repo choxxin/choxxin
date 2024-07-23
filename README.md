@@ -84,6 +84,27 @@
   <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
 </a>
 
+
+   <div align-center> 
+  <img src="https://soshace.com/wp-content/uploads/2019/10/Getting-Started-with-NextJS.jpg" alt="Next.js" height="40">
+ 
+ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1200px-Figma-logo.svg.png" alt="Figma" height="40">
+ 
+ 
+  <img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" alt="Netlify" height="40">
+ 
+ 
+  <img src="https://mms.businesswire.com/media/20211123005573/en/929867/23/vercel-logo-freelogovectors.net.jpg" alt="Vercel" height="40">
+ 
+ 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" height="40">
+ 
+</div>
+
+
+
+
  ### 🏆 My trophies
 
 <img height="180" src="https://github-profile-trophy.vercel.app/?username=choxxin&column=8&theme=algolia&no-frame=true"/>
