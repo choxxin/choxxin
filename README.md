@@ -31,9 +31,6 @@
   <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
 </a>
  
-<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=opencv&sort=">
-  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg">
-</a>
 <a href="https://github.com/choxxin?tab=repositories&q=&type=&language=sqlite&sort=">
   <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
 </a>
