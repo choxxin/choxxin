@@ -83,8 +83,10 @@
 <a href="https://github.com/choxxin?tab=repositories&q=&type=&language=github&sort=">
   <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
 </a>
- 
 
+ ### 🏆 My trophies
+
+<img height="180" src="https://github-profile-trophy.vercel.app/?username=choxxin&column=8&theme=algolia&no-frame=true"/>
 
 ### 🤝 Connect with me
 
