@@ -14,6 +14,81 @@
   <img src="https://profile-counter.glitch.me/choxxin/count.svg" alt="Visitor Count" />
 </div>
 
+---
+
+<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=python&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=c&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=cpp&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=java&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg">
+</a>
+ 
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=opencv&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/opencv.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=sqlite&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg">
+</a>
+ 
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=html&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=css&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=javascript&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=bootstrap&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=tailwind&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg">
+</a>
+ 
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=bash&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg">
+</a>
+ 
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=express&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/express.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=mongodb&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=mysql&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=nodejs&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=postman&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postman.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=postgresql&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=reactjs&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
+</a>
+ 
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=git&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg">
+</a>
+<a href="https://github.com/choxxin?tab=repositories&q=&type=&language=github&sort=">
+  <img width="32px" height="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+</a>
+ 
+
+
 ### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh123/)
